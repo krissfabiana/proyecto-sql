@@ -1,7 +1,7 @@
 USE ElTorrero;
 GO
 
--- CREAR ESQUEMA
+-- CREAR ESQUEMA 
 CREATE SCHEMA Administracion;
 GO
 
