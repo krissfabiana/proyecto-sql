@@ -2,7 +2,7 @@
 USE ElTorrero;
 GO
 
--- Opciones requeridas para poder crear la vista indexada mas adelante
+-- Opciones requeridas para poder crear la vista indexada mas adelante  
 SET ANSI_NULLS ON;
 SET QUOTED_IDENTIFIER ON;
 SET ANSI_PADDING ON;
